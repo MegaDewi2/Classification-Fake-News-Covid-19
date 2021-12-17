@@ -5,3 +5,6 @@
 
 ## Word Embedding
 [GloVe](https://nlp.stanford.edu/projects/glove/)
+
+## Model
+Menggunakan Bidirectional LSTM 
